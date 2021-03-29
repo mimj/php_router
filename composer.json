@@ -1,0 +1,10 @@
+{
+  "name": "mimj/router",
+  "description": "The Missing PHP Router!",
+  "autoload": {
+    "psr-4": {
+      "Mimj\\": "src/"
+    }
+  },
+  "require": {}
+}
